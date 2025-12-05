@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository explores public perceptions and sentiments toward electric vehicles (EVs) in the digital age. As the world shifts toward sustainable transportation, understanding how people truly feel about EVs—beyond headlines and policy debates—is crucial. This project dives into diverse internet data sources to capture genuine public discourse, comparing them with traditional media perspectives.
+This repository explores public perceptions and sentiments toward electric vehicles (EVs) in the digital age. As the world shifts toward sustainable transportation, understanding how people truly feel about EVs, beyond headlines and policy debates, is crucial. This project dives into diverse internet data sources to capture genuine public discourse, comparing them with traditional media perspectives.
 
 ## What We're Investigating
 
